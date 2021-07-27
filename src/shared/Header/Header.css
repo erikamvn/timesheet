@@ -1,0 +1,15 @@
+.timesheet-container {
+    display: flex;
+    justify-content: space-between;
+    margin: 30px;
+}
+
+.logout svg{
+    margin-right: 10px;
+    color:#fccd2a;
+    width: 30px;
+}
+
+.logout{
+    cursor: pointer;
+}

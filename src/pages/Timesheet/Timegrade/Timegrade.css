@@ -1,0 +1,22 @@
+times-table{
+    margin: 0 auto;
+}
+
+thead {
+  text-align: left;
+  color: #fccd2a;
+}
+
+.row-time {
+  color: black;
+  height: 42px;
+  text-align: center;
+}
+
+.row-time:nth-child(odd) {
+  background-color: white;
+}
+
+.row-time:nth-child(even) {
+  background-color: #f2f2f2;
+}

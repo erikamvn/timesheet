@@ -1,0 +1,43 @@
+.login {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    width: 100%;
+
+}
+
+.login-field{
+    display: flex;
+    align-items: center;
+    margin: 20px;
+}
+
+.login-field svg{
+    margin-right: 10px;
+    color:#fccd2a;
+    width: 30px;
+}
+
+.login-field input{
+    height: 30px;
+    border-radius: 5px;
+    border: none;
+    outline: none;    
+}
+
+.action-button {
+    background-color:#fccd2a;
+    color: #1e5084;
+    font-size: large;
+    font-weight: bold;
+    border: none;
+    border-radius: 5px;
+    width: 40%;
+    height: 40px;
+    cursor: pointer;
+}
+
+.action-button:hover{
+    background-color: #f7d55b;
+}
